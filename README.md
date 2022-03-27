@@ -1,8 +1,19 @@
-# Python Fundamentos Para Análise de Dados 3.0
+## [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - [Data Science Academy](https://www.datascienceacademy.com.br/pages/home)
 
-Data Science Academy - Repositório dos Arquivos do Curso Gratuito Python Fundamentos Para Análise de Dados, Versão 3.0.
+### *Exercícios Práticos do Curso Separados por Capítulos/Conteúdos.*
 
-https://www.datascienceacademy.com.br
+- Variáveis, Tipos e Estruturas de Dados.
+- Loops, Condicionais, Métodos.
+- Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in.
+- Orientação a Objeto.
+- Módulos Python para Análise de Dados.
+- Introdução à Análise de Dados com Python.
+- Desenvolvimento Web.
 
+#### ***Desafios/Missões:***
 
-
+1. Implementar um algoritmo para determinar se uma string possui todos os caracteres exclusivos.
+2. Gerar uma lista de números primos.
+3. Implementar um algoritmo para mover um robô do canto superior esquerdo para o canto inferior direito de uma grade.
+4. Implementar o Algoritmo de Ordenação "Selection sort".
+5. Analisar o Comportamento de Compra de Consumidores.
