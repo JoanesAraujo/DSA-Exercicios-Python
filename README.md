@@ -10,6 +10,10 @@
 - Introdução à Análise de Dados com Python.
 - Desenvolvimento Web.
 
+
+### Seja bem-vindo(a)ao DesafioDSA!.*
+
+Como objetivo de ajuda-lo (a) no desenvolvimento das suas habilidades analíticas e de programação, criamos o primeiro DesafioDSA no curso de Python Fundamentos Para Análise de Dados. Um conjunto de 5 missões que vão do nível de dificuldade baixo ao avançado, com diversas atividades que formam a base em Programação,Análise de Dados e Inteligência Artificial
 #### Desafios/Missões:***
 
 **Missão 1:** Implementar um algoritmo para determinar se uma string possui todos os caracteres exclusivos.
